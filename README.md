@@ -1,0 +1,1 @@
+# Linux program settings backup
